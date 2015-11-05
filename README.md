@@ -7,7 +7,7 @@ Requires an API key and a list ID
 
 ## Installation
 
-  npm install mailchimp --save
+  npm install @visualasparaugs/mailchimp --save
 
 ## Usage
 

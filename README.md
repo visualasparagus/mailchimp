@@ -27,6 +27,11 @@ Requires an API key and a list ID
 	    console.log('there was an error');
 	}
 
+## Dependencies
+
+* md5
+* unirest
+
 ## Release History
 
 * 0.1.0 Initial release

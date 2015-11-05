@@ -11,7 +11,7 @@ Requires an API key and a list ID
 
 ## Usage
 
-	var mailchimp = require('mailchimp')(
+	var mailchimp = require('@visualasparaugs/mailchimp')(
 	    MAILCHIMP_API_KEY
 	);
 	//

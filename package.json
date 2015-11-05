@@ -1,0 +1,13 @@
+{
+  "name": "mailchimp",
+  "version": "0.1.0",
+  "description": "Posts json data onwards to MailChimp API v3.0. First checks existing status of the email address",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Aaron Howell",
+  "license": "MIT",
+  "dependencies": {
+    "md5": "^2.0.0",
+    "unirest": "^0.4.2"
+  }
+}

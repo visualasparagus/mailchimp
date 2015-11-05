@@ -21,7 +21,7 @@ Requires an API key and a list ID
 	//
 	function onSuccess(status) {
 	    console.log(status);
-	}
+	}git tag -d release01
 	//
 	function onError() {
 	    console.log('there was an error');

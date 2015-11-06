@@ -1,6 +1,6 @@
 {
   "name": "@visualasparagus/mailchimp",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Posts json data onwards to MailChimp API v3.0. First checks existing status of the email address",
   "main": "index.js",
   "scripts": {},

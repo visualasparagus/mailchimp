@@ -48,3 +48,7 @@ Requires an API key and a list ID
 ## Release History
 
 * 0.1.0 Initial release
+* 0.1.1 Updated README.md
+* 0.1.2 Initial README.md
+* 0.1.3 Initial README.md
+* 0.1.4 Initial README.md

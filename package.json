@@ -1,9 +1,13 @@
 {
   "name": "@visualasparagus/mailchimp",
   "version": "0.1.4",
-  "description": "Posts json data onwards to MailChimp API v3.0. First checks existing status of the email address",
+  "description": "Forwards an email onwards to MailChimp API v3.0. First checks existing status of the email address",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/visualasparagus/mailchimp.git"
+  },
+  "bugs": "https://github.com/visualasparagus/mailchimp/issues",
   "main": "index.js",
-  "scripts": {},
   "author": "Aaron Howell",
   "license": "MIT",
   "dependencies": {

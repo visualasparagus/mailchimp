@@ -3,9 +3,9 @@ Mailchimp
 
 A simple script to add an email address to a MailChimp list using API 3.0. 
 
-This only takes an email address and does not manage any merge fields, etc.
+This only takes an email address and does not manage any merge fields, etc. It will first check the status of the email address.
 
-Requires an API key and a list ID
+Requires an MailChimp API key and a list ID
 
 ## Installation
 

@@ -9,11 +9,11 @@ Requires an MailChimp API key and a list ID
 
 ## Installation
 
-  npm install @visualasparaugs/mailchimp --save
+  npm install @visualasparagus/mailchimp --save
 
 ## Usage
 
-	var mailchimp = require('@visualasparaugs/mailchimp')(
+	var mailchimp = require('@visualasparagus/mailchimp')(
 	    MAILCHIMP_API_KEY
 	);
 	//
